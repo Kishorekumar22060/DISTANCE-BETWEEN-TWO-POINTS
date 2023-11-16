@@ -1,14 +1,13 @@
-# DISTANCE-BETWEEN-TWO-POINTS
+# Exp-1c- DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-### Step 2: 
-### Step 3: 
+### Step 1: Step 1:Import numpy into the editor
+### Step 2: Input the co-ordinates to calculate the distance between them.
+### Step 3: Substitute the values in the distance formula ![formula](
 Substitute the values in the distance formula  ![formula](/formula.JPG)
-### Step 4: 
-### Step 5: 
+### Step 4: Print the solution.
 ### PROGRAM:
 #Program to find the distance between two points.
 #Developed by: Kishore Kumar U
